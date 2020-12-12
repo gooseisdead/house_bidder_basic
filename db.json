@@ -14,6 +14,46 @@
       "id": 3,
       "name": "Jerry Seinfeld",
       "bid": 755000
+    },
+    {
+      "name": "Kotomi Ichinose",
+      "bid": "855000",
+      "id": 4
+    },
+    {
+      "name": "Carly Knight",
+      "bid": "900000",
+      "id": 5
+    },
+    {
+      "name": "New Toy",
+      "bid": "5",
+      "id": 6
+    },
+    {
+      "name": "Mike Smith",
+      "bid": "900000",
+      "id": 7
+    },
+    {
+      "name": "Forky",
+      "bid": "1000000",
+      "id": 8
+    },
+    {
+      "name": "Greg Louganis",
+      "bid": "495000",
+      "id": 9
+    },
+    {
+      "name": "Dean Cain",
+      "bid": "600000",
+      "id": 10
+    },
+    {
+      "name": "Bob Dobolina",
+      "bid": "555000",
+      "id": 11
     }
   ]
 }

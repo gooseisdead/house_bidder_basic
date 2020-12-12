@@ -8,8 +8,7 @@ class Bidder extends React.Component {
         return (
             
             <div className="bidder">
-                <p>{bidder.name}</p>
-                <p>{bidder.bid}</p>
+                <p>{bidder.name} -- {bidder.bid}</p>
             </div>
             
         )
