@@ -1,0 +1,19 @@
+{
+  "bidders": [
+    {
+      "id": 1,
+      "name": "Joe Hungry",
+      "bid": 455000
+    },
+    {
+      "id": 2,
+      "name": "Steve Harvey",
+      "bid": 555000
+    },
+    {
+      "id": 3,
+      "name": "Jerry Seinfeld",
+      "bid": 755000
+    }
+  ]
+}
