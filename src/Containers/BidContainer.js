@@ -10,7 +10,6 @@ class BidContainer extends React.Component {
     componentDidMount() {
         fetch("http://localhost:8000/bidders")
         .then(resp => resp.json())
-        // .then(data => this.setState({ api: data.sort( (a, b) => parseInt(b.price) - parseInt(a.price) )}))
         .then(data => this.setState( {api: data.sort( (a, b) => parseInt(b.bid) - parseInt(a.bid) )}))
     }
       
